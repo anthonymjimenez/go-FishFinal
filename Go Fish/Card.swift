@@ -1,5 +1,9 @@
 //
 //  Card.swift
+//  Go Fish
+//
+
+//  Card.swift
 //  goFish
 // using in conjuction with hand.swift
 // a hand is an array of cards

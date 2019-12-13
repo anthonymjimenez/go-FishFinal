@@ -15,17 +15,17 @@
 		E913ECAE23A3096900758E02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E913ECAC23A3096900758E02 /* LaunchScreen.storyboard */; };
 		E913ECB923A3096900758E02 /* Go_FishTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECB823A3096900758E02 /* Go_FishTests.swift */; };
 		E913ECC423A3096A00758E02 /* Go_FishUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECC323A3096A00758E02 /* Go_FishUITests.swift */; };
-		E913ECD223A309C600758E02 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECD123A309C600758E02 /* Card.swift */; };
-		E913ECD423A309D100758E02 /* Dealer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECD323A309D100758E02 /* Dealer.swift */; };
-		E913ECD623A309DC00758E02 /* MoneyValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECD523A309DC00758E02 /* MoneyValue.swift */; };
-		E913ECD823A309E600758E02 /* Money.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECD723A309E600758E02 /* Money.swift */; };
-		E913ECDA23A309F200758E02 /* Pot.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECD923A309F200758E02 /* Pot.swift */; };
-		E913ECDC23A309FB00758E02 /* Hand.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECDB23A309FB00758E02 /* Hand.swift */; };
-		E913ECDE23A30A0C00758E02 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECDD23A30A0C00758E02 /* Player.swift */; };
-		E913ECE023A30A1800758E02 /* Bank.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECDF23A30A1800758E02 /* Bank.swift */; };
-		E913ECE223A30A2200758E02 /* GenericPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECE123A30A2200758E02 /* GenericPlayer.swift */; };
-		E913ECE423A30A3A00758E02 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECE323A30A3A00758E02 /* Utilities.swift */; };
-		E913ECE623A30A4E00758E02 /* Deck.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECE523A30A4E00758E02 /* Deck.swift */; };
+		E913ECE823A3105800758E02 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECE723A3105800758E02 /* Card.swift */; };
+		E913ECEE23A31DCA00758E02 /* Pot.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECED23A31DCA00758E02 /* Pot.swift */; };
+		E913ECF023A31E1900758E02 /* Dealer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECEF23A31E1900758E02 /* Dealer.swift */; };
+		E913ECF223A31E4900758E02 /* Money.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECF123A31E4900758E02 /* Money.swift */; };
+		E913ECF423A31E6C00758E02 /* MoneyValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECF323A31E6C00758E02 /* MoneyValue.swift */; };
+		E913ECF823A31EEA00758E02 /* Hand.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECF723A31EEA00758E02 /* Hand.swift */; };
+		E913ECFA23A31FB900758E02 /* Bank.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECF923A31FB900758E02 /* Bank.swift */; };
+		E913ECFC23A31FE300758E02 /* GenericPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECFB23A31FE300758E02 /* GenericPlayer.swift */; };
+		E913ECFE23A3200D00758E02 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECFD23A3200D00758E02 /* Utilities.swift */; };
+		E913ED0023A3203E00758E02 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ECFF23A3203E00758E02 /* Player.swift */; };
+		E913ED0223A3209700758E02 /* Deck.swift in Sources */ = {isa = PBXBuildFile; fileRef = E913ED0123A3209700758E02 /* Deck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,17 +60,17 @@
 		E913ECBF23A3096A00758E02 /* Go FishUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Go FishUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E913ECC323A3096A00758E02 /* Go_FishUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Go_FishUITests.swift; sourceTree = "<group>"; };
 		E913ECC523A3096A00758E02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E913ECD123A309C600758E02 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Card.swift; path = ../../Card.swift; sourceTree = "<group>"; };
-		E913ECD323A309D100758E02 /* Dealer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Dealer.swift; path = ../../Dealer.swift; sourceTree = "<group>"; };
-		E913ECD523A309DC00758E02 /* MoneyValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MoneyValue.swift; path = ../../MoneyValue.swift; sourceTree = "<group>"; };
-		E913ECD723A309E600758E02 /* Money.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Money.swift; path = ../../Money.swift; sourceTree = "<group>"; };
-		E913ECD923A309F200758E02 /* Pot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Pot.swift; path = ../../Pot.swift; sourceTree = "<group>"; };
-		E913ECDB23A309FB00758E02 /* Hand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Hand.swift; path = ../../Hand.swift; sourceTree = "<group>"; };
-		E913ECDD23A30A0C00758E02 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Player.swift; path = ../../Player.swift; sourceTree = "<group>"; };
-		E913ECDF23A30A1800758E02 /* Bank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Bank.swift; path = ../../Bank.swift; sourceTree = "<group>"; };
-		E913ECE123A30A2200758E02 /* GenericPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GenericPlayer.swift; path = ../../GenericPlayer.swift; sourceTree = "<group>"; };
-		E913ECE323A30A3A00758E02 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Utilities.swift; path = ../../Utilities.swift; sourceTree = "<group>"; };
-		E913ECE523A30A4E00758E02 /* Deck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Deck.swift; path = ../../Deck.swift; sourceTree = "<group>"; };
+		E913ECE723A3105800758E02 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Card.swift; path = "/Applications/Go Fish/Go Fish/Card.swift"; sourceTree = "<absolute>"; };
+		E913ECED23A31DCA00758E02 /* Pot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pot.swift; sourceTree = "<group>"; };
+		E913ECEF23A31E1900758E02 /* Dealer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dealer.swift; sourceTree = "<group>"; };
+		E913ECF123A31E4900758E02 /* Money.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Money.swift; sourceTree = "<group>"; };
+		E913ECF323A31E6C00758E02 /* MoneyValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoneyValue.swift; sourceTree = "<group>"; };
+		E913ECF723A31EEA00758E02 /* Hand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hand.swift; sourceTree = "<group>"; };
+		E913ECF923A31FB900758E02 /* Bank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bank.swift; sourceTree = "<group>"; };
+		E913ECFB23A31FE300758E02 /* GenericPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericPlayer.swift; sourceTree = "<group>"; };
+		E913ECFD23A3200D00758E02 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
+		E913ECFF23A3203E00758E02 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		E913ED0123A3209700758E02 /* Deck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,24 +121,24 @@
 		E913EC9C23A3096600758E02 /* Go Fish */ = {
 			isa = PBXGroup;
 			children = (
+				E913ECFB23A31FE300758E02 /* GenericPlayer.swift */,
 				E913EC9D23A3096600758E02 /* AppDelegate.swift */,
 				E913ECA323A3096600758E02 /* GameScene.swift */,
-				E913ECD123A309C600758E02 /* Card.swift */,
-				E913ECD323A309D100758E02 /* Dealer.swift */,
-				E913ECD523A309DC00758E02 /* MoneyValue.swift */,
-				E913ECD723A309E600758E02 /* Money.swift */,
-				E913ECD923A309F200758E02 /* Pot.swift */,
-				E913ECDB23A309FB00758E02 /* Hand.swift */,
-				E913ECDD23A30A0C00758E02 /* Player.swift */,
-				E913ECDF23A30A1800758E02 /* Bank.swift */,
-				E913ECE123A30A2200758E02 /* GenericPlayer.swift */,
-				E913ECE323A30A3A00758E02 /* Utilities.swift */,
-				E913ECE523A30A4E00758E02 /* Deck.swift */,
+				E913ECF923A31FB900758E02 /* Bank.swift */,
+				E913ECEF23A31E1900758E02 /* Dealer.swift */,
+				E913ECF323A31E6C00758E02 /* MoneyValue.swift */,
 				E913ECA523A3096600758E02 /* GameViewController.swift */,
 				E913ECA723A3096600758E02 /* Main.storyboard */,
 				E913ECAA23A3096900758E02 /* Assets.xcassets */,
 				E913ECAC23A3096900758E02 /* LaunchScreen.storyboard */,
 				E913ECAF23A3096900758E02 /* Info.plist */,
+				E913ECE723A3105800758E02 /* Card.swift */,
+				E913ECED23A31DCA00758E02 /* Pot.swift */,
+				E913ECF123A31E4900758E02 /* Money.swift */,
+				E913ECF723A31EEA00758E02 /* Hand.swift */,
+				E913ECFD23A3200D00758E02 /* Utilities.swift */,
+				E913ECFF23A3203E00758E02 /* Player.swift */,
+				E913ED0123A3209700758E02 /* Deck.swift */,
 			);
 			path = "Go Fish";
 			sourceTree = "<group>";
@@ -292,20 +292,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E913ECE623A30A4E00758E02 /* Deck.swift in Sources */,
-				E913ECD623A309DC00758E02 /* MoneyValue.swift in Sources */,
+				E913ED0223A3209700758E02 /* Deck.swift in Sources */,
+				E913ECEE23A31DCA00758E02 /* Pot.swift in Sources */,
+				E913ECFA23A31FB900758E02 /* Bank.swift in Sources */,
 				E913ECA423A3096600758E02 /* GameScene.swift in Sources */,
-				E913ECD823A309E600758E02 /* Money.swift in Sources */,
+				E913ECF423A31E6C00758E02 /* MoneyValue.swift in Sources */,
+				E913ED0023A3203E00758E02 /* Player.swift in Sources */,
 				E913ECA623A3096600758E02 /* GameViewController.swift in Sources */,
-				E913ECE423A30A3A00758E02 /* Utilities.swift in Sources */,
+				E913ECFE23A3200D00758E02 /* Utilities.swift in Sources */,
+				E913ECF223A31E4900758E02 /* Money.swift in Sources */,
 				E913EC9E23A3096600758E02 /* AppDelegate.swift in Sources */,
-				E913ECDC23A309FB00758E02 /* Hand.swift in Sources */,
-				E913ECD423A309D100758E02 /* Dealer.swift in Sources */,
-				E913ECE023A30A1800758E02 /* Bank.swift in Sources */,
-				E913ECE223A30A2200758E02 /* GenericPlayer.swift in Sources */,
-				E913ECD223A309C600758E02 /* Card.swift in Sources */,
-				E913ECDE23A30A0C00758E02 /* Player.swift in Sources */,
-				E913ECDA23A309F200758E02 /* Pot.swift in Sources */,
+				E913ECFC23A31FE300758E02 /* GenericPlayer.swift in Sources */,
+				E913ECE823A3105800758E02 /* Card.swift in Sources */,
+				E913ECF023A31E1900758E02 /* Dealer.swift in Sources */,
+				E913ECF823A31EEA00758E02 /* Hand.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

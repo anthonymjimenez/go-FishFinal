@@ -26,6 +26,8 @@ class Player : GenericPlayer{
     }
     
     func setCanBet(canBet: Bool){
+                // used to controll when dealers can bet and press the 1-9 buttons
+
         self.canBet = canBet
     }
     
